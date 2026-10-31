@@ -1908,5 +1908,315 @@
     "discount": "28% OFF",
     "badge": "28% OFF",
     "url": "https://meli.la/2oWSQ65"
+  },
+  {
+    "label": "MINERADOR BTC",
+    "title": "Bitaxe Gamma 601 BM1370 1.2TH/s SHA256",
+    "body": "Bitaxe Gamma 601 • 1,2 TH/s • SHA-256 • mineração solo",
+    "price": "R$ 958,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1zYSss2"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Antminer S19j Pro 104TH/s - Bitmain",
+    "body": "Bitmain S19j Pro • 104 TH/s • SHA-256",
+    "price": "R$ 3.299,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1U9ZaHm"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Antminer S19k Pro 120TH/s - Bitmain",
+    "body": "Bitmain S19k Pro • 120 TH/s • SHA-256",
+    "price": "R$ 3.899,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/22wfdiM"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Antminer S19 95TH/s - Bitmain",
+    "body": "Bitmain S19 • 95 TH/s • SHA-256",
+    "price": "R$ 2.699,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/24LeRZz"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Antminer S19j Pro+ 120T - Bitmain",
+    "body": "Bitmain S19j Pro+ • 120 TH/s • SHA-256",
+    "price": "R$ 4.999,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2Su8MpZ"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Antminer T21 190TH/s - Bitmain",
+    "body": "Bitmain T21 • 190 TH/s • SHA-256",
+    "price": "R$ 8.999,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1nTH2ts"
+  },
+  {
+    "label": "MINERADOR BTC",
+    "title": "Minerador Avalon Nano 3S 6TH/s + Fonte",
+    "body": "Canaan Avalon Nano 3S • 6 TH/s • fonte original inclusa",
+    "price": "R$ 2.290,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1ftkCot"
+  },
+  {
+    "label": "MINERADOR BTC",
+    "title": "Mineradora Avalon Nano 3 4TH/s Bitcoin",
+    "body": "Canaan Avalon Nano 3 • 4 TH/s • mineração solo",
+    "price": "R$ 1.936,14",
+    "oldPrice": "R$ 2.698,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1z2964T"
+  },
+  {
+    "label": "MINERADOR BTC",
+    "title": "NerdQaxe++ 6TH Rev 6.1 Bitaxe",
+    "body": "NerdQaxe++ Rev 6.1 • 6 TH/s • mineração solo de Bitcoin",
+    "price": "R$ 2.671,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2qmyGMm"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Mineradora Asic Whatsminer M21s Bitcoin",
+    "body": "MicroBT Whatsminer M21s • SHA-256",
+    "price": "R$ 3.999,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1JefR6h"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Mineradora Avalonminer 1266 96TH/s",
+    "body": "Canaan Avalonminer 1266 • 96 TH/s • SHA-256",
+    "price": "R$ 3.799,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1Rg7j91"
+  },
+  {
+    "label": "ASIC BITCOIN",
+    "title": "Mineradora S21e Hydro 288TH 380V",
+    "body": "Antminer S21e Hydro • 288 TH/s • 380V • refrigeração líquida",
+    "price": "R$ 19.200,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1Hoiubc"
+  },
+  {
+    "label": "MINERADOR BTC",
+    "title": "Bitaxe Gamma 601 1.5TH/s",
+    "body": "Bitaxe Gamma 601 • 1,5 TH/s • SHA-256",
+    "price": "R$ 839,90",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2CM6CCo"
+  },
+  {
+    "label": "MINI MINERADOR",
+    "title": "Nerdminer V2 Completo 350kh/s com Case",
+    "body": "Nerdminer V2 • 350 kh/s • case incluso • mineração solo",
+    "price": "R$ 314,29",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/33ouLUP"
+  },
+  {
+    "label": "MINI MINERADOR",
+    "title": "Nerdminer V3.1 450kh/s Tela OLED",
+    "body": "Nerdminer V3.1 • 450 kh/s • display OLED",
+    "price": "R$ 159,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1RFkDUM"
+  },
+  {
+    "label": "MINI MINERADOR",
+    "title": "Rig de Mineração Bitaxe StarMiner 1.2/1.5",
+    "body": "Bitaxe StarMiner • 1,2 a 1,5 TH/s • SHA-256",
+    "price": "R$ 650,86",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2RKKwaM"
+  },
+  {
+    "label": "MINERADOR BTC",
+    "title": "Bitaxe NerdQaxe++ 4.8TH 75W",
+    "body": "NerdQaxe++ • 4,8 TH/s • 75 W • mineração de Bitcoin",
+    "price": "R$ 2.210,07",
+    "oldPrice": "R$ 2.399,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/18NHa7n"
+  },
+  {
+    "label": "RIG DE MINERAÇÃO",
+    "title": "Rig de Mineração para 6 GPUs + 4 Fans 120mm",
+    "body": "Estrutura aberta para 6 placas de vídeo e 4 fans de 120 mm",
+    "price": "R$ 349,14",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1xmsAs7"
+  },
+  {
+    "label": "RIG DE MINERAÇÃO",
+    "title": "Rig Completa com 5 GPUs RTX 3060",
+    "body": "Rig de mineração montada com 5 GeForce RTX 3060",
+    "price": "R$ 36.900,00",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1roYyon"
+  },
+  {
+    "label": "PLACA DE VÍDEO",
+    "title": "Gigabyte GeForce RTX 4070 Super Eagle OC 12GB",
+    "body": "GPU 12 GB GDDR6X • indicada para mineração de altcoins e IA",
+    "price": "R$ 7.128,12",
+    "oldPrice": "",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1YFiYuN"
+  },
+  {
+    "label": "ELETRÔNICO",
+    "title": "Combo Teclado e Mouse sem Fio Logitech MK235",
+    "body": "Logitech MK235 • layout ABNT2 • conexão sem fio",
+    "price": "R$ 135,90",
+    "oldPrice": "R$ 169,90",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/26gmPpg"
+  },
+  {
+    "label": "ELETRÔNICO",
+    "title": "Cartão de Memória 128GB Micro SD",
+    "body": "Micro SD 128 GB • para câmeras Wi-Fi e drones",
+    "price": "R$ 25,27",
+    "oldPrice": "R$ 59,90",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1S4UyKg"
+  },
+  {
+    "label": "ELETRÔNICO",
+    "title": "Carregador 30W Turbo USB-C para iPhone",
+    "body": "Fonte USB-C 30 W • iPhone 8 ao 14 Pro Max",
+    "price": "R$ 44,00",
+    "oldPrice": "R$ 99,90",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1kreY8i"
+  },
+  {
+    "label": "SSD NVME",
+    "title": "SSD Kingston NV3 1TB M.2 PCIe 4.0 6000MB/s",
+    "body": "Kingston NV3 • 1 TB • M.2 2280 • leitura até 6000 MB/s",
+    "price": "R$ 848,07",
+    "oldPrice": "R$ 1.285,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2BgCr1H"
+  },
+  {
+    "label": "SSD NVME",
+    "title": "SSD WD Black SN7100 1TB PCIe Gen4",
+    "body": "WD Black SN7100 • 1 TB • PCIe Gen4 x4",
+    "price": "R$ 1.081,00",
+    "oldPrice": "R$ 1.502,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2P9sF21"
+  },
+  {
+    "label": "SSD NVME",
+    "title": "SSD Biwin X570 Gaming 1TB PCIe 5.0",
+    "body": "Biwin X570 • 1 TB • PCIe 5.0 • leitura até 14.500 MB/s",
+    "price": "R$ 1.272,00",
+    "oldPrice": "R$ 1.767,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1o8y1ho"
+  },
+  {
+    "label": "TECLADO GAMER",
+    "title": "Teclado Gamer Mecânico Royal Score Warrior TC313",
+    "body": "Teclado mecânico gamer Royal Score TC313",
+    "price": "R$ 113,90",
+    "oldPrice": "R$ 299,90",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2TXJMxa"
+  },
+  {
+    "label": "TECLADO GAMER",
+    "title": "Teclado Mecânico Redragon Lakshmi K606 ABNT2",
+    "body": "Redragon Lakshmi K606 • switch brown • ABNT2",
+    "price": "R$ 134,36",
+    "oldPrice": "R$ 199,90",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2xRnkr1"
+  },
+  {
+    "label": "FONE JBL",
+    "title": "Fone JBL Wave Buds 2 Branco",
+    "body": "JBL Wave Buds 2 • TWS • Bluetooth",
+    "price": "R$ 252,98",
+    "oldPrice": "R$ 369,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1gBv7cz"
+  },
+  {
+    "label": "FONE JBL",
+    "title": "Fone JBL Tune 780NC com Cancelamento de Ruído",
+    "body": "JBL Tune 780NC • over-ear • ANC • Bluetooth",
+    "price": "R$ 369,55",
+    "oldPrice": "R$ 499,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/2Kdudip"
+  },
+  {
+    "label": "FONE JBL",
+    "title": "Fone JBL Live 780NC ANC Adaptativo",
+    "body": "JBL Live 780NC • ANC adaptativo • Bluetooth",
+    "price": "R$ 590,90",
+    "oldPrice": "R$ 799,00",
+    "discount": "",
+    "badge": "",
+    "url": "https://meli.la/1RvV9mL"
   }
 ]
